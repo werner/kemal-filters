@@ -1,6 +1,6 @@
 # kemal-filters
 
-Filters callback, similar to sinatra: http://www.sinatrarb.com/intro.html#Filters
+Filters callback for Kemal, similar to sinatra: http://www.sinatrarb.com/intro.html#Filters
 
 ## Installation
 
@@ -34,10 +34,6 @@ dependencies:
     "Other Page"
   end
 ```
-
-## Development
-
-TODO: Write development instructions here
 
 ## Contributing
 
