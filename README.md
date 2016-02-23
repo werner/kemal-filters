@@ -1,3 +1,6 @@
+## Disclaimer: 
+This shard has been merged in kemal itself.
+
 # kemal-filters
 
 Filters callback for Kemal, similar to sinatra: http://www.sinatrarb.com/intro.html#Filters
